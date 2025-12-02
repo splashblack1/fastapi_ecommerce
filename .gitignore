@@ -6,3 +6,10 @@ ecommerce.db
 .env
 .DS_Store   .env
 ecommerce.db
+
+# IDE - PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE - VS Code
+.vscode/
