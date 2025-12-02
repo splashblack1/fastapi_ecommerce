@@ -5,3 +5,4 @@ env/
 ecommerce.db
 .env
 .DS_Store   .env
+ecommerce.db
