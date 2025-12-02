@@ -4,4 +4,4 @@ venv/
 env/
 ecommerce.db
 .env
-.DS_Store
+.DS_Store   .env
